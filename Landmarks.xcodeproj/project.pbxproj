@@ -12,6 +12,7 @@
 		752E3E83259433C50047E69D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 752E3E82259433C50047E69D /* Assets.xcassets */; };
 		752E3E86259433C50047E69D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 752E3E85259433C50047E69D /* Preview Assets.xcassets */; };
 		752E3E8F2594386A0047E69D /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 752E3E8E2594386A0047E69D /* CircleImage.swift */; };
+		752E3E92259439060047E69D /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 752E3E91259439060047E69D /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		752E3E85259433C50047E69D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		752E3E87259433C50047E69D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		752E3E8E2594386A0047E69D /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		752E3E91259439060047E69D /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				752E3E8E2594386A0047E69D /* CircleImage.swift */,
 				752E3E80259433C40047E69D /* ContentView.swift */,
 				752E3E7E259433C40047E69D /* LandmarksApp.swift */,
+				752E3E91259439060047E69D /* MapView.swift */,
 				752E3E82259433C50047E69D /* Assets.xcassets */,
 				752E3E84259433C50047E69D /* Preview Content */,
 			);
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				752E3E81259433C40047E69D /* ContentView.swift in Sources */,
+				752E3E92259439060047E69D /* MapView.swift in Sources */,
 				752E3E7F259433C40047E69D /* LandmarksApp.swift in Sources */,
 				752E3E8F2594386A0047E69D /* CircleImage.swift in Sources */,
 			);
